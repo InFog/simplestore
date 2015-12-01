@@ -41,7 +41,7 @@ business rules and kind of separated files for database handling, etc.
 
 I also kept the project framework free, again, to avoid making it too complex
 to explain and poke within a two hours workshop. The exception is the frontend
-framework (Ink)[http://ink.sapo.pt/].
+framework [Ink](http://ink.sapo.pt/).
 
 ## Cool, I want to use it
 
