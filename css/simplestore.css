@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+}
+
+.wrap {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -120px;
+    overflow: auto;
+}
+
+.rightalign {
+    text-align: right;
+}
+
+.product_item img {
+    height: 300px;
+}
+
+.admin_list_image {
+    text-align: center;
+}
+
+.admin_list_image img {
+    height: 90px;
+}
+
+.list_image {
+    text-align: center;
+}
+
+.push, footer {
+    height: 120px;
+    margin-top: 0;
+}
+
+footer {
+    background: #ccc;
+}
